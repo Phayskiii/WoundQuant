@@ -36,10 +36,10 @@ Evaluated through automated batch testing:
    python main.py
 
 ## The Team
-- **Devrick Atok — Project Leader
+- **Devrick Atok** — Project Leader
 
-- **Adrian Flores — Developer
+- **Adrian Flores** — Developer
 
-- **Adrian Sevilla — Developer
+- **Adrian Sevilla** — Developer
 
-- **Peter Navas — Developer
+- **Peter Navas** — Developer
