@@ -1,0 +1,10 @@
+{
+    "necrotic_v_max": 85,
+    "necrotic_s_max": 255,
+    "slough_h_min": 10,
+    "slough_h_max": 60,
+    "slough_s_min": 5,
+    "gran_h_low_max": 10,
+    "gran_h_high_min": 160,
+    "gran_s_min": 40
+}

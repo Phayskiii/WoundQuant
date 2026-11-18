@@ -1,0 +1,10 @@
+.venv-win/
+__pycache__/
+*.py[cod]
+build/
+dist/
+patient_database.json
+TEST_IMAGES/
+*.db
+*.sqlite
+.DS_Store
