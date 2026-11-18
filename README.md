@@ -35,11 +35,11 @@ Evaluated through automated batch testing:
    pip install -r requirements.txt
    python main.py
 
-Team
-Devrick Atok — Project Leader
+## The Team
+- **Devrick Atok — Project Leader
 
-Adrian Flores — Developer
+- **Adrian Flores — Developer
 
-Adrian Sevilla — Developer
+- **Adrian Sevilla — Developer
 
-Peter Navas — Developer
+- **Peter Navas — Developer
