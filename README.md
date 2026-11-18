@@ -32,3 +32,14 @@ Evaluated through automated batch testing:
 1. Clone this repository and enter the project directory:
    ```bash
    cd WoundQuant
+   pip install -r requirements.txt
+   python main.py
+
+Team
+Devrick Atok — Project Leader
+
+Adrian Flores — Developer
+
+Adrian Sevilla — Developer
+
+Peter Navas — Developer
